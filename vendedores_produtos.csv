@@ -1,0 +1,51 @@
+Nome do Vendedor;CPF do Vendedor;Email do Vendedor;Descrição do Produto;Código do Produto;Preço do Produto;Em Estoque;Produto Orgânico;Característica do Produto;Marca do Produto;Garantia do Produto
+João Silva;12345678900;vendedor1@email.com;Maçã Orgânica;101;2.5;Sim;Sim;Fresca;-;-
+Maria Souza;12345678901;vendedor2@email.com;Smartphone;102;1200.0;Não;-;-;Samsung;24
+Carlos Oliveira;12345678902;vendedor3@email.com;Pão Integral;103;5.0;Sim;Não;Rico em Fibras;-;-
+Ana Pereira;12345678903;vendedor4@email.com;Notebook;104;3500.0;Sim;-;-;Dell;12
+Ricardo Costa;12345678904;vendedor5@email.com;Banana;105;1.2;Não;Sim;Orgânica;-;-
+Beatriz Lima;12345678905;vendedor6@email.com;Fone de Ouvido;106;150.0;Sim;-;-;Sony;6
+Paulo Santos;12345678906;vendedor7@email.com;Arroz Integral;107;3.8;Sim;Sim;Integral;-;-
+Larissa Almeida;12345678907;vendedor8@email.com;Televisão;108;2000.0;Não;-;-;LG;24
+Fernanda Ramos;12345678908;vendedor9@email.com;Suco Natural;109;4.5;Sim;Sim;Natural;-;-
+Lucas Azevedo;12345678909;vendedor10@email.com;Tablet;110;800.0;Sim;-;-;Apple;12
+Patrícia Melo;12345678910;vendedor11@email.com;Queijo;111;18.0;Sim;Não;Fresco;-;-
+Marcelo Dias;12345678911;vendedor12@email.com;Monitor;112;600.0;Não;-;-;Dell;12
+Juliana Freitas;12345678912;vendedor13@email.com;Leite;113;3.2;Sim;Sim;Sem lactose;-;-
+André Cardoso;12345678913;vendedor14@email.com;Teclado;114;70.0;Sim;-;-;Logitech;24
+Tatiane Barbosa;12345678914;vendedor15@email.com;Feijão Preto;115;6.5;Não;Sim;Feijão preto;-;-
+Roberto Fernandes;12345678915;vendedor16@email.com;Micro-ondas;116;500.0;Sim;-;-;Panasonic;12
+Gabriela Rocha;12345678916;vendedor17@email.com;Alface;117;1.0;Não;Sim;Sem agrotóxicos;-;-
+Felipe Castro;12345678917;vendedor18@email.com;Roteador;118;80.0;Sim;-;-;Netgear;12
+Amanda Torres;12345678918;vendedor19@email.com;Tomate;119;2.0;Não;Não;Maduro;-;-
+Pedro Martins;12345678919;vendedor20@email.com;Carregador;120;30.0;Sim;-;-;Anker;6
+Luciana Souza;12345678920;vendedor21@email.com;Frango;121;9.0;Não;Sim;Congelado;-;-
+Fábio Monteiro;12345678921;vendedor22@email.com;HD Externo;122;200.0;Sim;-;-;Seagate;24
+Camila Nunes;12345678922;vendedor23@email.com;Batata;123;4.0;Não;Não;Integral;-;-
+José Carvalho;12345678923;vendedor24@email.com;Câmera;124;300.0;Sim;-;-;Canon;12
+Carla Souza;12345678924;vendedor25@email.com;Uva;125;7.0;Sim;Sim;Fresco;-;-
+Eduardo Lemos;12345678925;vendedor26@email.com;Impressora;126;250.0;Não;-;-;HP;6
+Larissa Moreira;12345678926;vendedor27@email.com;Abacaxi;127;3.5;Sim;Sim;Sem conservantes;-;-
+Carlos Lima;12345678927;vendedor28@email.com;Geladeira;128;2500.0;Sim;-;-;Samsung;12
+Julia Ribeiro;12345678928;vendedor29@email.com;Laranja;129;4.2;Não;Sim;Vitamina C;-;-
+Fernando Costa;12345678929;vendedor30@email.com;Drone;130;1500.0;Sim;-;-;DJI;24
+Tatiana Moura;12345678930;vendedor31@email.com;Ovos;131;12.0;Sim;Não;Fresco;-;-
+Victor Santos;12345678931;vendedor32@email.com;Ferro de Passar;132;50.0;Não;-;-;Black+Decker;12
+Elisa Duarte;12345678932;vendedor33@email.com;Mel;133;15.0;Sim;Sim;Natural;-;-
+Rafael Farias;12345678933;vendedor34@email.com;Aspirador;134;350.0;Sim;-;-;LG;12
+Carolina Pinto;12345678934;vendedor35@email.com;Mamão;135;3.0;Não;Sim;Maduro;-;-
+Lucas Santana;12345678935;vendedor36@email.com;Ar-condicionado;136;1200.0;Sim;-;-;Electrolux;24
+Marcela Gomes;12345678936;vendedor37@email.com;Queijo;137;18.0;Sim;Sim;Livre de conservantes;-;-
+Thiago Almeida;12345678937;vendedor38@email.com;Notebook;138;1700.0;Não;-;-;Sony;6
+Vanessa Cruz;12345678938;vendedor39@email.com;Chá Verde;139;6.0;Sim;Sim;Antioxidante;-;-
+Ricardo Ribeiro;12345678939;vendedor40@email.com;Cafeteira;140;200.0;Sim;-;-;Philips;24
+Raquel Mendes;12345678940;vendedor41@email.com;Iogurte;141;2.2;Não;Não;Integral;-;-
+Alexandre Lima;12345678941;vendedor42@email.com;Ventilador;142;220.0;Sim;-;-;Mondial;12
+Daniele Barbosa;12345678942;vendedor43@email.com;Arroz Branco;143;3.7;Sim;Sim;Rico em fibras;-;-
+Gabriel Fernandes;12345678943;vendedor44@email.com;Caixa de Som;144;90.0;Não;-;-;Multilaser;6
+Flávia Rocha;12345678944;vendedor45@email.com;Pão de Forma;145;4.8;Sim;Sim;Integral;-;-
+Adriana Torres;12345678945;vendedor46@email.com;Secador de Cabelo;146;180.0;Não;-;-;Philco;12
+Bruno Almeida;12345678946;vendedor47@email.com;Chicória;147;2.5;Sim;Sim;Orgânico;-;-
+Luana Gomes;12345678947;vendedor48@email.com;Máquina de Lavar;148;1200.0;Sim;-;-;Brastemp;24
+Jéssica Moura;12345678948;vendedor49@email.com;Café;149;5.5;Não;Sim;Natural;-;-
+Rafaela Martins;12345678949;vendedor50@email.com;Freezer;150;2400.0;Sim;-;-;Eletrolux;6
